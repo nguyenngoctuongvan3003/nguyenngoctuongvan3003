@@ -12,40 +12,40 @@
 </p>
 ---
 
-## 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 🛠 Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/SpringBoot-FFB6C1?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-FFB6C1?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express-FFB6C1?style=for-the-badge&logo=express&logoColor=black)
-
----
-
-## 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-FFB6C1?style=for-the-badge&logo=mongodb&logoColor=black)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-FFB6C1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-FFB6C1?style=for-the-badge&logo=mariadb&logoColor=black)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-FFB6C1?style=for-the-badge&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-FFB6C1?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 🧰 Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS_Basic-FFB6C1?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FFB6C1?style=for-the-badge&logo=postman&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-FFB6C1?style=for-the-badge&logo=trello&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker_Basic-FFB6C1?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## Featured Projects
-- [Zalo Lite](https://github.com/Thu-Hong-oo/Zalo-Lite-14-4)  
+- [Zalo Lite](https://github## 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🛠 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 🧰 Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS_Basic-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Basic-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+.com/Thu-Hong-oo/Zalo-Lite-14-4)  
 - [CandyShop Backend](https://github.com/CandyShop-KT/CandyShopBE_KTTKPM)  
 - [CandyShop Frontend](https://github.com/CandyShop-KT/CandyShopFE_KTTKPM)  
 
