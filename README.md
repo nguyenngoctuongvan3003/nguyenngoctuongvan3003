@@ -6,6 +6,10 @@
 <h1 align="center">Hi, I'm Tuong Vân 👋</h1>
 <h3 align="center">Software Engineering Student</h3>
 
+## Hello
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1zN3JjazFoOTVhbGo0anNnZzBjNW9uazdkZHQxeGltazk4ZnZwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yrhhmre5fN2PtRujfo/giphy.gif" alt="helu">
+</p>
 ---
 
 ## 💫 About Me
@@ -49,7 +53,4 @@
 
 ---
 
-## Contribution Snake
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1zN3JjazFoOTVhbGo0anNnZzBjNW9uazdkZHQxeGltazk4ZnZwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yrhhmre5fN2PtRujfo/giphy.gif" alt="helu">
-</p>
+
