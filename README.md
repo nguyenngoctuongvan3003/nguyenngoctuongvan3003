@@ -12,23 +12,35 @@
 </p>
 ---
 
-## 💫 About Me
-- Currently learning: **Java, React, Node.js, Express, JavaScript, MongoDB, Microsoft SQL Server, MariaDB, HeidiSQL, AWS (basic)**
-- Passionate about learning new technologies  
-- Always eager to take on new coding challenges
+## 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🔧 Skills
-![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white)
+## 🛠 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/SpringBoot-FFB6C1?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-FFB6C1?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-FFB6C1?style=for-the-badge&logo=express&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFB6C1?style=for-the-badge&logo=mongodb&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-FFB6C1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-FFB6C1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-FFB6C1?style=for-the-badge&logo=mariadb&logoColor=black)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-FFB6C1?style=for-the-badge&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-FFB6C1?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 🧰 Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS_Basic-FFB6C1?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FFB6C1?style=for-the-badge&logo=postman&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello-FFB6C1?style=for-the-badge&logo=trello&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker_Basic-FFB6C1?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
