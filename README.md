@@ -45,7 +45,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Basic-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-.com/Thu-Hong-oo/Zalo-Lite-14-4)  
+
+---
+
+## 📂 Featured Projects
+- [Zalo Lite](https://github.com/Thu-Hong-oo/Zalo-Lite-14-4)  
 - [CandyShop Backend](https://github.com/CandyShop-KT/CandyShopBE_KTTKPM)  
 - [CandyShop Frontend](https://github.com/CandyShop-KT/CandyShopFE_KTTKPM)  
 
